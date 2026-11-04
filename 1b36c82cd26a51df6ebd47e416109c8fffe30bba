@@ -16,6 +16,24 @@
       "message": "This is missing the realtek driver.",
       "revId": "1b36c82cd26a51df6ebd47e416109c8fffe30bba",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5c219b6b_9399cf6a",
+        "filename": "BUILD.bazel",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-11-04T16:35:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6abd09c6_9a163b4b",
+      "revId": "1b36c82cd26a51df6ebd47e416109c8fffe30bba",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
